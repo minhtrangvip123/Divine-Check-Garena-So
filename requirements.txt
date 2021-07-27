@@ -2,3 +2,4 @@ google-speech
 beautifulsoup4
 requests
 pandas
+pytest

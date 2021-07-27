@@ -1,4 +1,4 @@
 google-speech
-bs4
+beautifulsoup4
 requests
 pandas

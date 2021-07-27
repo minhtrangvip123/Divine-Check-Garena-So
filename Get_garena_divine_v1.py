@@ -34,5 +34,8 @@ def inc(x):
 def test_answer():
     assert inc(3) == 4
 	
-def test_answer():
+def test_answer2():
     assert inc(5) == 6
+
+test_answer()
+test_answer2()

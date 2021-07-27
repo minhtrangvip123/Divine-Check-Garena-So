@@ -1,0 +1,4 @@
+google-speech
+bs4
+requests
+pandas

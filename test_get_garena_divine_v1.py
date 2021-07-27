@@ -23,8 +23,8 @@ for index, i in enumerate(page_link):
 		if product_names[1].span.text == "Còn hàng":
 			text = "Có hàng " + str(price[index]) + " rồi đại vương ơiiiii"
 			lang = "vi"
-			speech = Speech(text, lang)
-			speech.play()
+			# speech = Speech(text, lang)
+			# speech.play()
 			
 # content of test_sample.py
 def inc(x):
